@@ -23,8 +23,8 @@ cd mongodb-replica-set-setup
 Run the provided setup script to automate the MongoDB replica set configuration:
 
 ```bash
-chmod +x setup.sh
-./setup.sh
+chmod +x script.sh
+./script.sh
 ```
 
 ## Script Breakdown
