@@ -93,10 +93,3 @@ If you need to stop or restart MongoDB, you can use the following commands:
   sudo systemctl stop mongod
   ```
 
-## Conclusion
-
-Congratulations! You've successfully set up a MongoDB replica set with high availability and data redundancy. Your MongoDB environment is now ready for your applications to use.
-
-For more details on MongoDB configuration and usage, refer to the official MongoDB documentation.
-
----
